@@ -15,25 +15,25 @@ function App() {
 
     <Card
     image="https://i.pravatar.cc/150?img=4"
-    name="Vikrant Sharma"
+    name="Virat shastri"
     profession="Frontend Developer"
     bio="Passionate about building beautiful user interfaces."
     />
     <Card
     image="https://i.pravatar.cc/150?img=8"
-    name="Vikrant Sharma"
+    name="Shawn mess"
     profession="Cloud Engineer"
     bio="Works with cloud infrastructure and deployment pipelines."
     />
     <Card
     image="https://i.pravatar.cc/150?img=5"
-    name="Vikrant Sharma"
+    name="Antonio ramsom"
     profession="Backend Developer"
     bio="Enjoys designing scalable server architectures."
     />
     <Card
     image="https://i.pravatar.cc/150?img=7"
-    name="Vikrant Sharma"
+    name="Antalo Shafrd"
     profession="Full Stack Developer"
     bio="Builds complete web applications from frontend to backend."
     />

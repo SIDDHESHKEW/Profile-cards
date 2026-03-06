@@ -1,0 +1,15 @@
+.card{
+    border:2px solid white;
+    border-radius:25px;
+    padding:1em;
+    margin:1em;
+    width:200px;
+}
+
+img{
+    width:100%
+}
+
+#job-title{
+    text-align:end;
+}
